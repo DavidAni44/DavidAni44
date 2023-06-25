@@ -23,6 +23,7 @@ I am currently a Computer Science student [@SHU](https://www.shu.ac.uk). I am a 
 - I enjoy working in back end but I love cool designs and aesthically pleasing websites
 - Even though I have been learning Java for a while I am always open to feedback
 - I am interested in Defence Tehnology
+- Check out my [resume](https://www.linkedin.com/in/david-ani)
 
 ### Tools and Tech
 
