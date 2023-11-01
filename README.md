@@ -18,7 +18,7 @@
 I am currently a Computer Science student [@SHU](https://www.shu.ac.uk). I am a Tech Enthusiast but I am also passionate about working with new Technology, outside of working I am passionate about American Football, Basketball and Football, I also enjoy watching anime and anything Marvel or DC.
 
 ### Quick Facts
-- I am in my 2nd Year of University
+- I am an IT placement student @[ Mercedes AMG High Performance Powertrains](https://www.mercedes-amg-hpp.com/#)
 - I am currently working in and learning Java
 - I enjoy working in back end but I love cool designs and aesthically pleasing websites
 - Even though I have been learning Java for a while I am always open to feedback
